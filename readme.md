@@ -1,4 +1,4 @@
-# PTDF Project Performance Dashboard — README
+# PTDF Project Performance Dashboard
 
 ![PTDF Dashboard Cover](./images/ptdf-dashboard-cover.png) <!-- Replace with your screenshot: e.g., ptdf-dashboard-cover.png -->
 
