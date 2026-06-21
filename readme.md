@@ -1,6 +1,7 @@
 # PTDF Project Performance Dashboard
 
 ![PTDF Dashboard Cover](https://github.com/Adnanisme/project-budget-management-system/blob/main/PROTRACK-1.webp) 
+
 ## Overview
 
 The **PTDF Project Performance Dashboard** is an internal web application built to centralize and simplify project oversight for the Petroleum Technology Development Fund. It replaces scattered spreadsheets and long email threads with a single place where executives and managers can see projects, budgets, approvals, and progress at-a-glance. The system models the institution’s hierarchy (departments → subdivisions → teams) so progress and spend automatically roll up from projects to subdivisions and departments.
@@ -55,12 +56,10 @@ This is a production-ready portfolio project that demonstrates backend architect
 
 ## Screenshots
 
-Add one or two clear screenshots here to highlight the main dashboard and an approval workflow:
+Insert a few screenshots highlighting the library, a dataset request page, and the innovation showcase:
 
-```md
-![Subdepartment Overview](https://github.com/Adnanisme/project-budget-management-system/blob/main/PROTRACK-2.webp)  
-![Projects Page](https://github.com/Adnanisme/project-budget-management-system/blob/main/PROTRACK-3.webp)
-```
+![](./NPTR-2.webp)
+![](./NPTR-3.webp)
 
 ---
 
